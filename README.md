@@ -4,7 +4,7 @@ Public reporting and evidence for the Catalyst project [**FC Barcelona — Fan e
 
 ## Milestone 2
 
-[Milestone 2: Platform Setup](https://milestones.projectcatalyst.io/projects/1300101/milestones/2)
+[Milestone 2: Platform Setup](https://milestones.projectcatalyst.io/projects/1300101/milestones/2) — [final report](M2-report.md)
 
 | Output | Evidence |
 |---|---|
